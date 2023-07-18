@@ -1,0 +1,22 @@
+{
+  "id": 100,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Maria",
+  "photoUrls": [
+    "https://cdn.britannica.com/71/234471-050-093F4211/shiba-inu-dog-in-the-snow.jpg"
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "vaccinated"
+    },
+    {
+      "id": 20,
+      "name": "Shiba-Inu"
+    }
+  ],
+  "status": "available"
+}
